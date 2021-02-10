@@ -1,14 +1,3 @@
-Big Data Health Science Conference 2021 Poster Summary
-Exploring Substance Use Disorder (SUD) Patterns on Twitter Before and During COVID-19 Pandemic
-Avineet Kumar Sigh, and Dezhi Wu, PhD1
-College of Engineering and Computing
-University of South Carolina
-Columbia, SC 29309
-
-1 Corresponding Author, Email: dezhiwu@cec.sc.edu 
-The ongoing COVID-19 pandemic has significantly changed healthcare systems globally with currently over 104 million of cases and 2.26 million death as of Jan. 2021. Substance use disorder (SUD) users are regarded as vulnerable population for contamination due to their clinical, psychological, and psychosocial conditions. During the pandemic, social, financial, and psychological risks can favor and intensify SUD in a drastic way, worse, SUD users’ risks associated with COVID-19 infection are also high. Moreover, social distance, quarantine and financial crisis during the pandemic have been directly led to SUD users’ adverse mental health consequences such as anxiety, depression, and suicide, in that the pandemic is jeopardizing their existing preventive strategies and limited healthcare resources. As such, it is likely that the pandemic can trigger more substance consumption and negative mental health outcomes. 
-Social media platforms such as Twitter are where many users use to post and share their opinions, and they become increasingly important to serve as public health surveillance tools due to their real-time ways of disseminating information in the public. In this study, we have explored SUD patterns during and before the COVID-19 pandemic using Twitter. 
-Around 466K tweets were extracted from Dec. 2019 to May 2020 using 1,860 keywords. Python library ‘Twint’ along with these keywords were used to identify and extract specific SUD-related tweets from a large set of tweets making the analysis part easier and more accurate. 
-After removing irrelevant words and special characters from tweets, we found that use of drug words like alcohol and weed doubled whereas cocaine, meth and LSD increased by 50%. SUD-related tweets count by more unique Twitter users increased by 68% during COVID. People strongly opposed ban of Alcohol in April 2020, as they considered consuming alcohol to reduce their depression. In the future, we plan to further explore underlying mechanisms about these Twitter users’ SUD posting behaviors for clinical insights, so that an early detection and digital intervention could be made possible. 
-Acknowledgement
-The authors would like to acknowledge the funding support provided by the University of South Carolina [Grant No: 80002838 (Wu)], and to also thank Dr. Phyllis Raynor for her clinical advice on keyword selections. Any opinions, recommendations, and conclusions expressed in this project do not necessarily reflect the view of the funding agent.  
+Poster Presentation on the topic "Exploring Substance Use Disorder (SUD) Patterns on Twitter Before and During COVID-19 Pandemic". 
+This poster was presented during National Big Data Health Science Conference 2021 conducted virtually by University of South Carolina, Columbia, USA. 
+Link: https://www.sc-bdhs-conference.org/
